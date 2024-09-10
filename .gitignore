@@ -1,7 +1,8 @@
 # created by virtualenv automatically
+
 # Ignorar entornos virtuales
-bin/
-lib/
+venv/
+env/
 __pycache__/
 
 # Ignorar archivos específicos de Python
