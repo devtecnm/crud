@@ -8,6 +8,7 @@ __pycache__/
 # Ignorar archivos específicos de Python
 *.pyc
 *.pyo
+.env
 
 # Ignorar configuraciones de IDEs
 .vscode/
